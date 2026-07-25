@@ -13,7 +13,9 @@
 
 <p>
   <a href="#-skill-tree">Skill Tree</a> •
+  <a href="#-pinned-missions">Projects</a> •
   <a href="#-stats-terminal">Stats</a> •
+  <a href="#-achievements-unlocked">Achievements</a> •
   <a href="#-socials">Socials</a> •
   <a href="#-transmission">Contact</a>
 </p>
@@ -40,6 +42,10 @@ I don't just write code — I craft digital weapons. Currently burning midnight 
 crafting web magic, and automating the future. Zero-error tolerance, solutions not excuses.
 Life goal: become every competitor's worst nightmare. 😎
 
+</div>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote — refreshes on every view" width="70%" />
 </div>
 
 <br>
@@ -108,12 +114,31 @@ Life goal: become every competitor's worst nightmare. 😎
 
 <br>
 
+## 🎯 Pinned Missions
+
+<div align="center">
+
+<a href="https://github.com/YashChaurasia01/CropCure">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashChaurasia01&repo=CropCure&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=e0e0ff&icon_color=FF2E9F" width="48%" alt="CropCure repo card" />
+</a>
+<a href="https://github.com/YashChaurasia01/calculuspro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashChaurasia01&repo=calculuspro&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=e0e0ff&icon_color=FF2E9F" width="48%" alt="CalculusPro repo card" />
+</a>
+
+<sub>swap the <code>repo=</code> values above for any of your other repos to pin them here</sub>
+
+</div>
+
+<br>
+
 ## 📊 Stats Terminal
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YashChaurasia01&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=e0e0ff&icon_color=FF2E9F&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashChaurasia01&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=e0e0ff&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashChaurasia01&theme=synthwave&hide_border=true&bg_color=0D0221&color=00F0FF&line=FF2E9F&point=F2FF1A&area=true&area_color=9D00FF" alt="Commit Activity Graph" width="90%" />
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=YashChaurasia01&theme=radical&hide_border=true&background=0D0221&stroke=FF2E9F&ring=00F0FF&fire=F2FF1A&currStreakLabel=00F0FF" alt="Streak Stats" width="70%" />
 
@@ -177,6 +202,42 @@ jobs:
 ```
 
 </details>
+
+<details>
+<summary>🎧 Add a live "Now Playing" Spotify widget (optional)</summary>
+
+<br>
+
+[`kittinan/spotify-github-profile`](https://github.com/kittinan/spotify-github-profile) shows whatever
+you're currently listening to, updating automatically — arguably the most genuinely "live" widget available
+for a static README.
+
+**1.** Fork/deploy that repo, connect your Spotify account, and get your generated `<user-id>`.
+
+**2.** Embed it:
+
+```md
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0D0221&interchange=false&bar_color=00F0FF&bar_color_cover=false" alt="now playing" />
+</div>
+```
+
+</details>
+
+<br>
+
+## 🏆 Achievements Unlocked
+
+<div align="center">
+
+![Achievement](https://img.shields.io/badge/🔓_ZERO--ERROR_STREAK-active-39FF14?style=for-the-badge&labelColor=0D0221)
+![Achievement](https://img.shields.io/badge/🔓_FULL--STACK_INITIATE-unlocked-00F0FF?style=for-the-badge&labelColor=0D0221)
+![Achievement](https://img.shields.io/badge/🔓_ML_APPRENTICE-in_progress-F2FF1A?style=for-the-badge&labelColor=0D0221)
+![Achievement](https://img.shields.io/badge/🔒_ML_MASTER-locked-555555?style=for-the-badge&labelColor=0D0221)
+![Achievement](https://img.shields.io/badge/🔓_UI_PERFECTIONIST-unlocked-FF2E9F?style=for-the-badge&labelColor=0D0221)
+![Achievement](https://img.shields.io/badge/🔓_SOLO_DEV-unlocked-9D00FF?style=for-the-badge&labelColor=0D0221)
+
+</div>
 
 <br>
 
