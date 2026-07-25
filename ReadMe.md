@@ -146,83 +146,26 @@ Life goal: become every competitor's worst nightmare. 😎
 
 <img src="https://github-contributor-stats.vercel.app/api?username=YashChaurasia01&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="70%" />
 
-</div>
+<br><br>
 
-<details>
-<summary>🐍 Enable the animated contribution snake (optional)</summary>
-
-<br>
-
-GitHub strips `<script>`/`<style>` from READMEs, so real motion has to be a pre-rendered animated SVG.
-[`Platane/snk`](https://github.com/Platane/snk) is a GitHub Action that turns your contribution graph
-into an animated snake eating your commits — it regenerates on a schedule, so it stays live without any
-client-side code.
-
-**1.** Create `.github/workflows/snake.yml` in a repo (can be this profile repo):
-
-```yaml
-name: generate snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: YashChaurasia01
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00F0FF&color_dots=1a0a2e,3a0d5c,7c1fb0,c72cff,00F0FF
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**2.** After the first run, embed it here with a light/dark switch:
-
-```md
+<!--
+  Snake animation — served directly from raw.githubusercontent.com once the
+  workflow below has run once. No Camo, no Vercel, no rate limits: GitHub
+  serving its own committed file. Until the first Action run completes this
+  image will 404 — that's expected, see the setup note underneath.
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashChaurasia01/YashChaurasia01/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/YashChaurasia01/YashChaurasia01/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/YashChaurasia01/YashChaurasia01/output/github-contribution-grid-snake.svg" width="90%" />
 </picture>
-```
 
-</details>
-
-<details>
-<summary>🎧 Add a live "Now Playing" Spotify widget (optional)</summary>
-
-<br>
-
-[`kittinan/spotify-github-profile`](https://github.com/kittinan/spotify-github-profile) shows whatever
-you're currently listening to, updating automatically — arguably the most genuinely "live" widget available
-for a static README.
-
-**1.** Fork/deploy that repo, connect your Spotify account, and get your generated `<user-id>`.
-
-**2.** Embed it:
-
-```md
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0D0221&interchange=false&bar_color=00F0FF&bar_color_cover=false" alt="now playing" />
 </div>
-```
 
-</details>
+<sub>⚙️ Snake setup: I've included <code>.github/workflows/snake.yml</code> alongside this README — drop it
+into the same path in your <code>YashChaurasia01/YashChaurasia01</code> repo, push to <code>main</code>, then
+run it once from the <b>Actions</b> tab (or wait for the daily cron). It creates an <code>output</code> branch
+holding the generated SVGs, which is what the image above points to. Until that first run finishes the image
+will just show broken — that's expected, not a bug.</sub>
 
 <br>
 
