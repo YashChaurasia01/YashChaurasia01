@@ -1,209 +1,62 @@
-<div align="center">
+# 💫 About Me
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:9D00FF,100:00F0FF&height=220&section=header&text=YASH%20CHAURASIA&fontSize=52&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=%3C%3C%20AI%2FML%20DEV%20%2F%2F%20FRONT-END%20ARCHITECT%20%3E%3E&descAlignY=58&descSize=18&descColor=FF2E9F)
+👋 **Hi, I'm Yash!**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&height=60&lines=%3E+booting+yash.exe...;AI%2FML+Learner+%F0%9F%A4%96;Front-End+Dev+%F0%9F%92%BB;Code.+Conquer.+Repeat.+%F0%9F%94%A5;Zero-error+tolerance+%E2%9A%A1" alt="Typing SVG" />
+I'm an **AI & Machine Learning student** and a driven full-stack developer who builds innovative, user-focused applications. I thrive on exploring new technologies, solving real-world problems, and relentlessly sharpening my skills.
 
-<br>
+**🚀 What Drives Me**
+- 🎓 B.Tech student specializing in Artificial Intelligence & Machine Learning
+- 💻 Full-stack developer with a deep focus on modern web development
+- 🤖 Passionate about AI, Machine Learning, Deep Learning, and Generative AI
+- 🌱 Constantly mastering new frameworks, tools, and emerging technologies
+- 🎨 Dedicated to crafting beautiful, responsive, and interactive user interfaces
+- 🔍 Driven to build projects that solve real, practical problems
+- 🛠️ Equally skilled across frontend and backend development
+- 📚 Actively exploring and contributing to open-source projects
 
-![Level](https://img.shields.io/badge/LEVEL-99-FF2E9F?style=for-the-badge&labelColor=0D0221)
-![Class](https://img.shields.io/badge/CLASS-AI%2FML_DEV-00F0FF?style=for-the-badge&labelColor=0D0221)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0D0221)
-![XP](https://img.shields.io/badge/XP-10%25_ML_%E2%86%92_100%25_OBSESSED-F2FF1A?style=for-the-badge&labelColor=0D0221)
+**🌟 Interests**
+- Artificial Intelligence & Machine Learning
+- Full-Stack Web Development
+- Computer Vision
+- UI/UX Design & Animation
+- Open Source
+- Problem Solving
 
-<p>
-  <a href="#-skill-tree">Skill Tree</a> •
-  <a href="#-pinned-missions">Projects</a> •
-  <a href="#-stats-terminal">Stats</a> •
-  <a href="#-achievements-unlocked">Achievements</a> •
-  <a href="#-socials">Socials</a> •
-  <a href="#-transmission">Contact</a>
-</p>
+**📈 Currently Building**
+- 🤖 AI-powered web applications
+- 🌐 Modern, responsive portfolio websites
+- 🔎 Computer Vision & image-processing projects
+- 🚀 Full-stack development projects
 
-</div>
+## 🌐 Socials
 
-<br>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/xukyosho) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashc.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashchaurasia01) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/xukyosho) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xukyosho) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xukyosho@gmail.com)
 
-```ansi
-[SYSTEM] > initializing profile: yash_chaurasia
-[SYSTEM] > location: LNCT Bhopal — AIML Division
-[SYSTEM] > directive: build tomorrow's tech, today
-[SYSTEM] > philosophy: "Bugs fear me. Competitors avoid me. Code obeys me."
-[SYSTEM] > status: 100% obsessed, 0% excuses
-```
+## 💻 Tech Stack
 
-<div align="center">
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
-### ⚔️ ABOUT THE PLAYER
-
-**AI/ML Learner** · **Front-End Dev** · **Perfectionist** · **Full-Stack Vision**
-
-I don't just write code — I craft digital weapons. Currently burning midnight oil on ML projects,
-crafting web magic, and automating the future. Zero-error tolerance, solutions not excuses.
-Life goal: become every competitor's worst nightmare. 😎
-
-</div>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote — refreshes on every view" width="70%" />
-</div>
-
-<br>
-
-## 🌐 Skill Tree
+## 📊 GitHub Stats
 
 <div align="center">
 
-**LANGUAGES**
-<br>
-![HTML5](https://img.shields.io/badge/HTML5-FF003C?style=for-the-badge&logo=html5&logoColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-00F0FF?style=for-the-badge&logo=css3&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F2FF1A?style=for-the-badge&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-9D00FF?style=for-the-badge&logo=python&logoColor=ffffff)
-![R](https://img.shields.io/badge/R-00F0FF?style=for-the-badge&logo=r&logoColor=000000)
+![](https://github-readme-stats.shion.dev/api?username=YashChaurasia01&theme=neon&hide_border=true&include_all_commits=true&count_private=true)
 
-**ML / AI STACK**
-<br>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF2E9F?style=for-the-badge&logo=tensorflow&logoColor=000000)
-![PyTorch](https://img.shields.io/badge/PyTorch-FF003C?style=for-the-badge&logo=pytorch&logoColor=ffffff)
-![Keras](https://img.shields.io/badge/Keras-9D00FF?style=for-the-badge&logo=keras&logoColor=ffffff)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-00F0FF?style=for-the-badge&logo=scikit-learn&logoColor=000000)
-![NumPy](https://img.shields.io/badge/NumPy-39FF14?style=for-the-badge&logo=numpy&logoColor=000000)
-![Pandas](https://img.shields.io/badge/Pandas-F2FF1A?style=for-the-badge&logo=pandas&logoColor=000000)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FF2E9F?style=for-the-badge&logo=plotly&logoColor=000000)
-![Plotly](https://img.shields.io/badge/Plotly-00F0FF?style=for-the-badge&logo=plotly&logoColor=000000)
-![Anaconda](https://img.shields.io/badge/Anaconda-39FF14?style=for-the-badge&logo=anaconda&logoColor=000000)
+![](https://streak-stats.demolab.com/?user=YashChaurasia01&theme=neon&hide_border=true)
 
-**WEB / DEPLOY**
-<br>
-![WordPress](https://img.shields.io/badge/WordPress-00F0FF?style=for-the-badge&logo=wordpress&logoColor=000000)
-![Flask](https://img.shields.io/badge/Flask-F2FF1A?style=for-the-badge&logo=flask&logoColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-9D00FF?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/Firebase-FF2E9F?style=for-the-badge&logo=firebase&logoColor=000000)
-![Vercel](https://img.shields.io/badge/Vercel-00F0FF?style=for-the-badge&logo=vercel&logoColor=000000)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-FF003C?style=for-the-badge&logo=cloudflare&logoColor=ffffff)
-![Apache](https://img.shields.io/badge/Apache-39FF14?style=for-the-badge&logo=apache&logoColor=000000)
-
-**DATA**
-<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-39FF14?style=for-the-badge&logo=mongodb&logoColor=000000)
-![MySQL](https://img.shields.io/badge/MySQL-00F0FF?style=for-the-badge&logo=mysql&logoColor=000000)
-![Power BI](https://img.shields.io/badge/Power_BI-F2FF1A?style=for-the-badge&logo=powerbi&logoColor=000000)
-
-**DESIGN**
-<br>
-![Figma](https://img.shields.io/badge/Figma-FF2E9F?style=for-the-badge&logo=figma&logoColor=000000)
-![Photoshop](https://img.shields.io/badge/Photoshop-00F0FF?style=for-the-badge&logo=adobephotoshop&logoColor=000000)
-![Illustrator](https://img.shields.io/badge/Illustrator-F2FF1A?style=for-the-badge&logo=adobeillustrator&logoColor=000000)
-![After Effects](https://img.shields.io/badge/After_Effects-9D00FF?style=for-the-badge&logo=adobeaftereffects&logoColor=ffffff)
-![Lightroom](https://img.shields.io/badge/Lightroom-00F0FF?style=for-the-badge&logo=adobelightroom&logoColor=000000)
-![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-FF003C?style=for-the-badge&logo=affinity-designer&logoColor=ffffff)
-![Krita](https://img.shields.io/badge/Krita-39FF14?style=for-the-badge&logo=krita&logoColor=000000)
-![Canva](https://img.shields.io/badge/Canva-00F0FF?style=for-the-badge&logo=canva&logoColor=000000)
-
-**TOOLS / MISC**
-<br>
-![GitHub](https://img.shields.io/badge/GitHub-FF2E9F?style=for-the-badge&logo=github&logoColor=000000)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-00F0FF?style=for-the-badge&logo=bitbucket&logoColor=000000)
-![Notion](https://img.shields.io/badge/Notion-F2FF1A?style=for-the-badge&logo=notion&logoColor=000000)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-39FF14?style=for-the-badge&logo=nvidia&logoColor=000000)
-![Steam](https://img.shields.io/badge/Steam-9D00FF?style=for-the-badge&logo=steam&logoColor=ffffff)
-![Xbox](https://img.shields.io/badge/Xbox-FF003C?style=for-the-badge&logo=xbox&logoColor=ffffff)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=YashChaurasia01&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
-<br>
-
-## 🎯 Pinned Missions
+## ✍️ Words That Fuel Me
 
 <div align="center">
 
-<a href="https://github.com/YashChaurasia01/CropCure">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashChaurasia01&repo=CropCure&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=e0e0ff&icon_color=FF2E9F" width="48%" alt="CropCure repo card" />
-</a>
-<a href="https://github.com/YashChaurasia01/calculuspro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashChaurasia01&repo=calculuspro&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=e0e0ff&icon_color=FF2E9F" width="48%" alt="CalculusPro repo card" />
-</a>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<sub>swap the <code>repo=</code> values above for any of your other repos to pin them here</sub>
+> **"Become so TALENTED, so VIGILANT, flat out FANTASTIC that your talent can never be DISMISSED."**
+> — [Oprah Winfrey](https://www.hindustantimes.com/lifestyle/relationships/quote-of-the-day-by-oprah-winfrey-become-so-skilled-so-vigilant-so-flat-out-fantastic-at-what-you-do-talent-101772543840269.html)
 
 </div>
 
-<br>
-
-## 📊 Stats Terminal
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YashChaurasia01&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=e0e0ff&icon_color=FF2E9F&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashChaurasia01&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=e0e0ff&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashChaurasia01&theme=synthwave&hide_border=true&bg_color=0D0221&color=00F0FF&line=FF2E9F&point=F2FF1A&area=true&area_color=9D00FF" alt="Commit Activity Graph" width="90%" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=YashChaurasia01&theme=radical&hide_border=true&background=0D0221&stroke=FF2E9F&ring=00F0FF&fire=F2FF1A&currStreakLabel=00F0FF" alt="Streak Stats" width="70%" />
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YashChaurasia01&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)
-
-<img src="https://github-contributor-stats.vercel.app/api?username=YashChaurasia01&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="70%" />
-
-<br><br>
-
-<!--
-  Snake animation — served directly from raw.githubusercontent.com once the
-  workflow below has run once. No Camo, no Vercel, no rate limits: GitHub
-  serving its own committed file. Until the first Action run completes this
-  image will 404 — that's expected, see the setup note underneath.
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashChaurasia01/YashChaurasia01/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/YashChaurasia01/YashChaurasia01/output/github-contribution-grid-snake.svg" width="90%" />
-</picture>
-
-</div>
-
-<sub>⚙️ Snake setup: I've included <code>.github/workflows/snake.yml</code> alongside this README — drop it
-into the same path in your <code>YashChaurasia01/YashChaurasia01</code> repo, push to <code>main</code>, then
-run it once from the <b>Actions</b> tab (or wait for the daily cron). It creates an <code>output</code> branch
-holding the generated SVGs, which is what the image above points to. Until that first run finishes the image
-will just show broken — that's expected, not a bug.</sub>
-
-<br>
-
-## 🏆 Achievements Unlocked
-
-<div align="center">
-
-![Achievement](https://img.shields.io/badge/🔓_ZERO--ERROR_STREAK-active-39FF14?style=for-the-badge&labelColor=0D0221)
-![Achievement](https://img.shields.io/badge/🔓_FULL--STACK_INITIATE-unlocked-00F0FF?style=for-the-badge&labelColor=0D0221)
-![Achievement](https://img.shields.io/badge/🔓_ML_APPRENTICE-in_progress-F2FF1A?style=for-the-badge&labelColor=0D0221)
-![Achievement](https://img.shields.io/badge/🔒_ML_MASTER-locked-555555?style=for-the-badge&labelColor=0D0221)
-![Achievement](https://img.shields.io/badge/🔓_UI_PERFECTIONIST-unlocked-FF2E9F?style=for-the-badge&labelColor=0D0221)
-![Achievement](https://img.shields.io/badge/🔓_SOLO_DEV-unlocked-9D00FF?style=for-the-badge&labelColor=0D0221)
-
-</div>
-
-<br>
-
-## 🔗 Socials
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-00F0FF?style=for-the-badge&logo=facebook&logoColor=000000)](https://www.facebook.com/yash.chaurasia.25078/)
-[![Instagram](https://img.shields.io/badge/Instagram-FF2E9F?style=for-the-badge&logo=instagram&logoColor=000000)](https://instagram.com/yashc.exe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9D00FF?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/yashchaurasia01)
-[![X](https://img.shields.io/badge/X-F2FF1A?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/xukyosho)
-[![Email](https://img.shields.io/badge/Email-FF003C?style=for-the-badge&logo=gmail&logoColor=ffffff)](https://mail.google.com/mail/?view=cm&fs=1&to=xukyosho@gmail.com)
-
-</div>
-
-<br>
-
-## 📡 Transmission
-
-<div align="center">
-
-[![Visitors](https://visitcount.itsvg.in/api?id=YashChaurasia01&icon=8&color=6)](https://visitcount.itsvg.in)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:9D00FF,100:0D0221&height=120&section=footer)
-
-</div>
+---
